@@ -1,0 +1,9 @@
+{
+  "versionCode": 1700,
+  "package": [
+    "com.eyewind.colorfit.family",
+    "com.eyewind.colorfit.garden",
+    "com.eyewind.colorfit.princess"
+  ],
+  "path": "colorfit/image"
+}
