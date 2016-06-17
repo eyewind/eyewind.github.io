@@ -1,7 +1,7 @@
 {
   "metaVersion": 1,
   "dataVersion": 1,
-  "data": [
+  "meta": [
     {
       "pkg": "com.eyewind.colorfit.family",
       "name": "photo text",
