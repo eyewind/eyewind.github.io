@@ -1,19 +1,19 @@
 {
-  "version": 1,
-  "data": [
-    {
-      "pkg": "com.eyewind.paperone",
-      "name": "PaperOne",
-      "descript": "Paper One is a painting application which is imitating the real paintbrush!",
-      "name-zh": "Paperone",
-      "descript-zh": "Paper One是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本！"
-    },
-    {
-      "pkg": "com.eyewind.phototext",
-      "name": "PhotoText",
-      "descript": "Phototext is an image-text production application which is concise and fantastic !",
-      "name-zh": "Phototext",
-      "descript-zh": "Phototext是一款簡潔流暢的圖文製作應用"
-    }
-  ]
+    "version": 1,
+    "data": [
+        {
+            "pkg": "com.eyewind.paperone",
+            "name": "PaperOne",
+            "descript": "PaperOne is a painting application which is imitating the real paintbrush!",
+            "name-zh": "PaperOne",
+            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本！"
+        },
+        {
+            "pkg": "com.eyewind.phototext",
+            "name": "PhotoText",
+            "descript": "PhotoText is an image-text production application which is concise and fantastic !",
+            "name-zh": "PhotoText",
+            "descript-zh": "Phototext是一款簡潔流暢的圖文製作應用"
+        }
+    ]
 }
