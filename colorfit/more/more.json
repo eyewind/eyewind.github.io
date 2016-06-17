@@ -1,9 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "data": [
     {
       "pkg": "com.eyewind.colorfit.family",
-      "name": "family",
+      "name": "photo text",
       "descript": "ColorFit colorful garden book coloring is a colorful garden book",
       "name-zh": "家庭",
       "descript-zh": "家庭家庭家庭家庭家庭家庭家庭家庭"
