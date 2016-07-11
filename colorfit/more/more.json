@@ -1,19 +1,26 @@
 {
-    "version": 2,
+    "version": 1,
     "data": [
         {
             "pkg": "com.eyewind.paperone",
-            "name": "PaperOne",
-            "descript": "PaperOne is a painting application which is imitating the real paintbrush!",
-            "name-zh": "PaperOne",
-            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本！"
+            "name": "Paperone﹣Drawing board",
+            "descript": "Paper One is a painting application which is imitating the real paintbrush，you can drawing in your phone or tablet at anytime!",
+            "name-zh": "Paperone﹣繪畫板",
+            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本，實現隨想隨畫！"
         },
         {
             "pkg": "com.eyewind.phototext",
-            "name": "PhotoText",
-            "descript": "PhotoText is an image-text production application which is concise and fantastic !",
-            "name-zh": "PhotoText",
+            "name": "Phototext",
+            "descript": "Phototext is an image-text production application which is concise and fantastic !",
+            "name-zh": "Phototext",
             "descript-zh": "Phototext是一款簡潔流暢的圖文製作應用"
+        },
+        {
+            "pkg": "com.ew.coloring.animal",
+            "name": "Animals Coloring Game",
+            "descript": "A realistic coloring experience just like working with actual pencils and paper!",
+            "name-zh": "",
+            "descript-zh": "遊戲模擬真實的畫筆塗色，讓你享受最開心的塗色體驗！"
         }
     ]
 }
