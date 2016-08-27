@@ -1,6 +1,14 @@
 {
-    "version": 4,
+    "version": 5,
     "data": [
+	        {
+            "pkg": "com.ewdraw.doodle",
+            "name": "Happy Doodle",
+            "descript": "The doodle game could playback the doodle process as a cartoon.",
+            "name-zh": "开心涂鸦",
+            "descript-zh": "可以播放動畫的塗鴉遊戲"
+        },
+	
         {
             "pkg": "com.eyewind.paperone",
             "name": "Paperone﹣Drawing board",
